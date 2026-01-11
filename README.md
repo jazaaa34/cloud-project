@@ -1,0 +1,1 @@
+This project is a frontend Event Management Website developed to manage and display events such as catering services, food events, and cultural programs. The website provides an organized and user-friendly interface for viewing event details, schedules, and announcements. It also allows workers to view events and apply for work opportunities.
